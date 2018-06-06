@@ -4,8 +4,6 @@
  * author: Cristian Tejada - https://github.com/ctejadan
  */
 
-namespace pagofacilhelper;
-
 class PagoFacilHelper
 {
     var $dev_server = "https://t.pagofacil.xyz/v1";

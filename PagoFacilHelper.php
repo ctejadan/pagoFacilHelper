@@ -4,7 +4,7 @@
  * author: Cristian Tejada - https://github.com/ctejadan
  */
 
-namespace \pagofacilhelper;
+namespace pagofacilhelper;
 
 class PagoFacilHelper
 {
